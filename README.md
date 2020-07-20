@@ -5,7 +5,7 @@
 
 ### Core Requirements (6 units required)
 
-*![ISYE 6501 Introduction to Analytics Modeling](https://github.com/scotttarlow/ISYE-6501-Intro-to-Analytics-Modeling)
+*[ISYE 6501 Introduction to Analytics Modeling](https://github.com/scotttarlow/ISYE-6501-Intro-to-Analytics-Modeling)
 
 
 
