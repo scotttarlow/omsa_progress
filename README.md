@@ -3,7 +3,7 @@
 
 # Online Masters in Analytics - Computational Data
 
-### Core Requirements (3 units required) 
+### Core Requirements (6 units required) 
 
 
 ### Advanced Core Requirements (6 units)
@@ -18,4 +18,4 @@
 ### Track Electives (6 units required)
 
 
-### Additional Electives (6 units required)
+### Additional Electives (3 units required)
