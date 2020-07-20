@@ -9,7 +9,7 @@
 
 ### Advanced Core Requirements (6 units)
 *[CSE 6242 Data and Visual Analytics](https://github.com/scotttarlow/CSE-6242-Data-and-Visual-Analytics) (3 credits)
-
+*[MGT 6203 Data Analytics in Business](https://github.com/scotttarlow/MGT-6203-Data-Analytics-in-Business)
 
 ### Statistics Electives (6 units required)
 
