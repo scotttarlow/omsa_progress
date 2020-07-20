@@ -14,6 +14,9 @@
 
 ### Statistics Electives (6 units required)
 
+*[CS 7641 Machine Learning](https://github.com/scotttarlow/CSE-7641-Machine-Learning)
+
+
 
 ### Operations Research Electives (3 units required)
 
