@@ -14,8 +14,8 @@
 
 ### Statistics Electives (6 units required)
 
-*[CS 7641 Machine Learning](https://github.com/scotttarlow/CSE-7641-Machine-Learning) (3 credits)
-*[ISYE 6620 Bayesian Statistics](https://github.com/scotttarlow/ISYE-6620-Bayesian-Statistics) (3 credits)
+* [CS 7641 Machine Learning](https://github.com/scotttarlow/CSE-7641-Machine-Learning) (3 credits)
+* [ISYE 6620 Bayesian Statistics](https://github.com/scotttarlow/ISYE-6620-Bayesian-Statistics) (3 credits)
 
 
 
@@ -23,11 +23,11 @@
 
 
 ### Track Electives (6 units required)
-*[CS 7646 Machine Learning for Trading](https://github.com/scotttarlow/CS-7646-Machine-Learning-for-Trading) (3 credits)
+* [CS 7646 Machine Learning for Trading](https://github.com/scotttarlow/CS-7646-Machine-Learning-for-Trading) (3 credits)
 
 
 ### Additional Electives (3 units required)
-*[ISYE 8803 Topics on High-Dimensional Data Analytics](https://github.com/scotttarlow/ISYE-8803-Topics-on-High-Dimensional-Data-Analytics) (3 credits)
+* [ISYE 8803 Topics on High-Dimensional Data Analytics](https://github.com/scotttarlow/ISYE-8803-Topics-on-High-Dimensional-Data-Analytics) (3 credits)
 
 ### Practicum (6 credits) 
 
