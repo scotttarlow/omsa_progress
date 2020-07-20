@@ -29,7 +29,7 @@
 ### Additional Electives (3 units required)
 *[ISYE 8803 Topics on High-Dimensional Data Analytics](https://github.com/scotttarlow/ISYE-8803-Topics-on-High-Dimensional-Data-Analytics) (3 credits)
 
-###Practicum (6 credits) 
+### Practicum (6 credits) 
 
 
 ### Planned Coureses
