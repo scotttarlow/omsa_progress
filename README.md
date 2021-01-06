@@ -20,7 +20,7 @@
 
 
 ### Operations Research Electives (3 units required)
-* [ISYE 669 Deterministic Optimization](https://github.com/scotttarlow/ISYE-6669-Deterministic-Optimization)
+* [ISYE 669 Deterministic Optimization](https://github.com/scotttarlow/ISYE-6669-Deterministic-Optimization) (3 Credits)
 
 
 ### Track Electives (6 units required)
